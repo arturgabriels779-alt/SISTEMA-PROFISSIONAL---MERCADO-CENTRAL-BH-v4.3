@@ -141,3 +141,15 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Segurança
+cert.pem
+key.pem
+.env
+
+# Dependências
+node_modules/
+
+# Logs e Cache
+npm-debug.log
+.DS_Store
